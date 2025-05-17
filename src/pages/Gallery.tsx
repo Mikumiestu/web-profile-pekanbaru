@@ -22,7 +22,7 @@ const Gallery: React.FC = () => {
       id: 1,
       title: "An-Nur Grand Mosque",
       category: "landmarks",
-      url: "https://images.pexels.com/photos/2044434/pexels-photo-2044434.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      url: "https://smarttourism.pekanbaru.go.id/storage/destinations/63422-masjid-raya-an-nur.jpg"
     },
     {
       id: 2,
