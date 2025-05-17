@@ -16,7 +16,7 @@ const Culture: React.FC = () => {
       <div 
         className="relative h-80 md:h-96 bg-cover bg-center" 
         style={{ 
-          backgroundImage: "url('https://images.pexels.com/photos/2834219/pexels-photo-2834219.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')"
+          backgroundImage: "url('https://asset-2.tstatic.net/pekanbaru/foto/bank/images/FOTO-Tugu-Zapin-Pekanbaru-Mulai-Rusak-Dimakan-Usia-3.jpg')"
         }}
       >
         <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center">
@@ -53,7 +53,7 @@ const Culture: React.FC = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
             <div>
               <img 
-                src="https://images.pexels.com/photos/2165583/pexels-photo-2165583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                src="https://cdn0-production-images-kly.akamaized.net/tZ5sHoKADWmi499k5znWj95jYZ4=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5062478/original/069612200_1734932733-1734931252040_fungsi-tari-zapin.jpg" 
                 alt="Traditional Dance" 
                 className="rounded-lg shadow-md w-full h-80 object-cover mb-6"
               />
@@ -65,7 +65,7 @@ const Culture: React.FC = () => {
 
             <div>
               <img 
-                src="https://images.pexels.com/photos/3184188/pexels-photo-3184188.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                src="https://porospro.com/assets/berita/original/59989102375-img-20221113-wa0041.jpg" 
                 alt="Traditional Crafts" 
                 className="rounded-lg shadow-md w-full h-80 object-cover mb-6"
               />
@@ -90,7 +90,7 @@ const Culture: React.FC = () => {
             <div className="md:flex">
               <div className="md:w-1/2">
                 <img 
-                  src="https://images.pexels.com/photos/939698/pexels-photo-939698.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                  src="https://asset.kompas.com/crops/oWkOcAckFpJ_kdqJjkM7rh4QqCA=/7x0:949x628/1200x800/data/photo/2024/01/11/65a013404eecd.jpg" 
                   alt="Traditional Music" 
                   className="h-full w-full object-cover"
                 />
@@ -118,15 +118,15 @@ const Culture: React.FC = () => {
               </p>
             </div>
             <div className="bg-white rounded-lg shadow-md p-6">
-              <h4 className="text-xl font-bold text-gray-800 mb-3">Berzanji</h4>
+              <h4 className="text-xl font-bold text-gray-800 mb-3">Gambus</h4>
               <p className="text-gray-700">
-                A traditional Islamic vocal performance praising the Prophet Muhammad, often performed during religious ceremonies.
+              Gambus is a stringed musical instrument, commonly found in Riau, Indonesia, which is similar to a guitar. It is often used to accompany Islamic songs and dances like Zapin, and has a distinct Middle Eastern influence according to Gramedia and other sources.
               </p>
             </div>
             <div className="bg-white rounded-lg shadow-md p-6">
-              <h4 className="text-xl font-bold text-gray-800 mb-3">Marhaban</h4>
+              <h4 className="text-xl font-bold text-gray-800 mb-3">Rabana</h4>
               <p className="text-gray-700">
-                A form of musical recitation performed to welcome honored guests and during special celebrations.
+              Rebana, known as a "tambourine" in English, is a traditional musical instrument, specifically a percussion instrument, primarily used in Islamic musical traditions. It is a circular frame drum with a membrane on one side, usually made of animal skin, and is typically played with the palms of the hands. 
               </p>
             </div>
           </div>
@@ -146,13 +146,13 @@ const Culture: React.FC = () => {
             <div className="bg-white rounded-lg overflow-hidden shadow-md">
               <div className="h-48 overflow-hidden">
                 <img 
-                  src="https://images.pexels.com/photos/2608517/pexels-photo-2608517.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                  src="https://static.republika.co.id/uploads/images/inpicture_slide/ribuan-orang-berkumpul-untuk-mengikuti-tradisi-petang-megang-di-_150612132756-519.jpg" 
                   alt="Petang Megang " 
                   className="w-full h-full object-cover transition-transform duration-500 hover:scale-110"
                 />
               </div>
               <div className="p-6">
-                <h3 className="text-xl font-bold text-gray-800 mb-2">Petang Megang</h3>
+                <h3 className="text-xl font-bold text-gray-800 mb-2">Petang Megang Festival</h3>
                 <p className="text-gray-600 mb-4">
                   A traditional festival celebrated before Ramadan, featuring traditional foods and cultural performances. The festival includes community feasts, traditional games, and special ceremonies.
                 </p>
@@ -166,7 +166,7 @@ const Culture: React.FC = () => {
             <div className="bg-white rounded-lg overflow-hidden shadow-md">
               <div className="h-48 overflow-hidden">
                 <img 
-                  src="https://images.pexels.com/photos/2263695/pexels-photo-2263695.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                  src="https://static.gonews.co/assets/news/28112019/gonews_xq4pp_79887.jpg" 
                   alt="Riau Arts Festival" 
                   className="w-full h-full object-cover transition-transform duration-500 hover:scale-110"
                 />
@@ -186,7 +186,7 @@ const Culture: React.FC = () => {
             <div className="bg-white rounded-lg overflow-hidden shadow-md">
               <div className="h-48 overflow-hidden">
                 <img 
-                  src="https://images.pexels.com/photos/2263436/pexels-photo-2263436.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                  src="https://mediacenter.riau.go.id/foto_berita/medium/malam-puncak-perayaan-hut-ke-240-pe.jpg" 
                   alt="Pekanbaru City Anniversary" 
                   className="w-full h-full object-cover transition-transform duration-500 hover:scale-110"
                 />
@@ -230,7 +230,7 @@ const Culture: React.FC = () => {
             <div className="bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow duration-300">
               <div className="h-48 overflow-hidden">
                 <img 
-                  src="https://images.pexels.com/photos/5835353/pexels-photo-5835353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                  src="https://cdn.rri.co.id/berita/Bengkalis/o/1724311241392-bolu_kemojo/660vhzvwjlyemcv.jpeg"
                   alt="Bolu Kemojo" 
                   className="w-full h-full object-cover transition-transform duration-500 hover:scale-110"
                 />
@@ -250,13 +250,13 @@ const Culture: React.FC = () => {
             <div className="bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow duration-300">
               <div className="h-48 overflow-hidden">
                 <img 
-                  src="https://images.pexels.com/photos/699953/pexels-photo-699953.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                  src="https://img-global.cpcdn.com/recipes/373d29c888e65ed5/1200x630cq70/photo.jpg" 
                   alt="Asam Pedas" 
                   className="w-full h-full object-cover transition-transform duration-500 hover:scale-110"
                 />
               </div>
               <div className="p-6">
-                <h3 className="text-xl font-bold text-gray-800 mb-2">Asam Pedas</h3>
+                <h3 className="text-xl font-bold text-gray-800 mb-2">Asam Pedas Baung</h3>
                 <p className="text-gray-600 mb-4">
                   A spicy and sour fish stew, typically made with local river fish, tamarind, chili, and various herbs and spices. This flavorful dish perfectly represents the bold flavors of Riau cuisine.
                 </p>
@@ -270,7 +270,7 @@ const Culture: React.FC = () => {
             <div className="bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow duration-300">
               <div className="h-48 overflow-hidden">
                 <img 
-                  src="https://images.pexels.com/photos/2313686/pexels-photo-2313686.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                  src="https://awsimages.detik.net.id/community/media/visual/2023/01/11/resep-gulai-ikan-patin-tempoyak_43.jpeg?w=1200" 
                   alt="Gulai Ikan Patin" 
                   className="w-full h-full object-cover transition-transform duration-500 hover:scale-110"
                 />
