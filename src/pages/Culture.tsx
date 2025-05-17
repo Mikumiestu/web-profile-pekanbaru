@@ -147,12 +147,12 @@ const Culture: React.FC = () => {
               <div className="h-48 overflow-hidden">
                 <img 
                   src="https://images.pexels.com/photos/2608517/pexels-photo-2608517.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
-                  alt="Petang Megang Festival" 
+                  alt="Petang Megang " 
                   className="w-full h-full object-cover transition-transform duration-500 hover:scale-110"
                 />
               </div>
               <div className="p-6">
-                <h3 className="text-xl font-bold text-gray-800 mb-2">Petang Megang Festival</h3>
+                <h3 className="text-xl font-bold text-gray-800 mb-2">Petang Megang</h3>
                 <p className="text-gray-600 mb-4">
                   A traditional festival celebrated before Ramadan, featuring traditional foods and cultural performances. The festival includes community feasts, traditional games, and special ceremonies.
                 </p>

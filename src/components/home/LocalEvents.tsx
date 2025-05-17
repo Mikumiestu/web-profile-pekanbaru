@@ -14,7 +14,7 @@ const LocalEvents: React.FC = () => {
   const [events] = useState<Event[]>([
     {
       id: 1,
-      title: "Petang Megang Festival",
+      title: " Megang Festival",
       date: "April 2025",
       location: "Various locations across Pekanbaru",
       image: "https://images.pexels.com/photos/2300972/pexels-photo-2300972.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
