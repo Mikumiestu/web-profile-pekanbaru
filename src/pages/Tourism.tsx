@@ -26,7 +26,7 @@ const Tourism: React.FC = () => {
       name: "An-Nur Grand Mosque",
       category: "landmark",
       description: "One of the largest mosques in Indonesia, featuring stunning Islamic architecture and beautiful gardens.",
-      image: "https://images.pexels.com/photos/2044434/pexels-photo-2044434.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      image: "https://smarttourism.pekanbaru.go.id/storage/destinations/63422-masjid-raya-an-nur.jpg",
       location: "Jalan Hangtuah, Pekanbaru",
       rating: 4.8
     },
@@ -35,7 +35,7 @@ const Tourism: React.FC = () => {
       name: "Soeman HS Library",
       category: "landmark",
       description: "A modern architectural landmark housing a vast collection of literature about Riau's heritage.",
-      image: "https://images.pexels.com/photos/2873993/pexels-photo-2873993.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      image: "https://www.gramedia.com/blog/content/images/2018/11/riau-berbagi.jpg",
       location: "Jalan Jenderal Sudirman, Pekanbaru",
       rating: 4.5
     },
@@ -44,7 +44,7 @@ const Tourism: React.FC = () => {
       name: "Siak River Cruise",
       category: "nature",
       description: "Experience the historical waterway that has been a lifeline for trade and transportation in the region.",
-      image: "https://images.pexels.com/photos/3601453/pexels-photo-3601453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      image: "https://bertuahpos.com/wp-content/uploads/2023/07/pencemaran-air-sungai-siak.jpg",
       location: "Siak River, Pekanbaru",
       rating: 4.6
     },
@@ -53,7 +53,7 @@ const Tourism: React.FC = () => {
       name: "Riau Cultural Park",
       category: "culture",
       description: "Immerse yourself in the rich cultural heritage of Riau through traditional performances and exhibitions.",
-      image: "https://images.pexels.com/photos/2119028/pexels-photo-2119028.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      image: "https://smarttourism.pekanbaru.go.id/storage/destinations/md-65234-anjungan-seni-idrus-tintin.jpeg",
       location: "Jalan Sudirman, Pekanbaru",
       rating: 4.3
     },
@@ -62,7 +62,7 @@ const Tourism: React.FC = () => {
       name: "Alam Mayang Recreation Park",
       category: "nature",
       description: "A family-friendly recreation area with water activities, playgrounds, and beautiful natural surroundings.",
-      image: "https://images.pexels.com/photos/2486168/pexels-photo-2486168.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      image: "https://ksmtour.com/media/images/articles12/taman-wisata-alam-mayang-riau.JPG",
       location: "Jalan Harapan Raya, Pekanbaru",
       rating: 4.4
     },
@@ -71,7 +71,7 @@ const Tourism: React.FC = () => {
       name: "Traditional Riau Culinary Market",
       category: "food",
       description: "Sample local delicacies such as Bolu Kemojo, Asam Pedas, and other authentic Riau dishes.",
-      image: "https://images.pexels.com/photos/2338015/pexels-photo-2338015.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      image: "https://i0.wp.com/infopku.com/wp-content/uploads/2018/10/Berburu-Oleh-Oleh-di-Pasar-Wisata_htm_2601b101ec2dd286.jpg?resize=696%2C464&ssl=1",
       location: "Pasar Bawah, Pekanbaru",
       rating: 4.7
     },
@@ -80,17 +80,17 @@ const Tourism: React.FC = () => {
       name: "Mall SKA",
       category: "shopping",
       description: "The largest shopping center in Pekanbaru, offering a wide range of retail stores, restaurants, and entertainment options.",
-      image: "https://images.pexels.com/photos/5872297/pexels-photo-5872297.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      image: "https://indonesiashoppingcenter.com/public/uploads/2016/06/Mal-SKA-1.jpg",
       location: "Jalan Soekarno Hatta, Pekanbaru",
       rating: 4.2
     },
     {
       id: 8,
-      name: "Okura Bridge",
+      name: "Asia Heritage",
       category: "landmark",
-      description: "A photogenic spot offering stunning views of the river and surrounding landscape.",
-      image: "https://images.pexels.com/photos/1933239/pexels-photo-1933239.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      location: "Okura, Pekanbaru",
+      description: "Asia Heritage in Pekanbaru is a tourist attraction where visitors can experience the culture of four different Asian countries within one location.",
+      image: "https://dbijapkm3o6fj.cloudfront.net/resources/31642,1004,1,6,4,0,600,450/-4601-/20220413164953/asia-heritage.jpeg",
+      location: "Kecamatan Rumbai, Pekanbaru",
       rating: 4.3
     },
     {
@@ -98,7 +98,7 @@ const Tourism: React.FC = () => {
       name: "Pasar Bawah Night Market",
       category: "shopping",
       description: "Experience the vibrant local life at this traditional night market selling everything from souvenirs to local snacks.",
-      image: "https://images.pexels.com/photos/5638076/pexels-photo-5638076.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      image: "https://www.cakaplah.com/assets/news/13112023/cakaplahcom_tfs8l_104326.jpeg",
       location: "Pasar Bawah, Pekanbaru",
       rating: 4.4
     }
@@ -142,7 +142,7 @@ const Tourism: React.FC = () => {
       <div 
         className="relative h-80 md:h-96 bg-cover bg-center" 
         style={{ 
-          backgroundImage: "url('https://images.pexels.com/photos/3155666/pexels-photo-3155666.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')"
+          backgroundImage: "url('https://jalanjalanyuk.co.id/wp-content/uploads/2024/10/kawah-biru-tempat-wisata-pekanbaru.webp')"
         }}
       >
         <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center">
@@ -238,18 +238,18 @@ const Tourism: React.FC = () => {
             <div className="bg-white rounded-lg overflow-hidden shadow-md">
               <div className="h-48 overflow-hidden">
                 <img 
-                  src="https://images.pexels.com/photos/261102/pexels-photo-261102.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
+                  src="https://smarttourism.pekanbaru.go.id/storage/destinations/67776-hotel-grand-jatra.jpg" 
                   alt="Luxury Hotel" 
                   className="w-full h-full object-cover transition-transform duration-500 hover:scale-110"
                 />
               </div>
               <div className="p-6">
-                <h3 className="text-xl font-bold text-gray-800 mb-2">Grand Zuri Hotel</h3>
+                <h3 className="text-xl font-bold text-gray-800 mb-2">Grand Jatra</h3>
                 <p className="text-gray-600 mb-4">
                   A luxury hotel in the heart of Pekanbaru, offering modern amenities and excellent service.
                 </p>
                 <div className="flex justify-between items-center">
-                  <span className="text-emerald-600 font-semibold">From $75/night</span>
+                  <span className="text-emerald-600 font-semibold">From $100/night</span>
                   <button className="text-white bg-emerald-600 hover:bg-emerald-700 px-4 py-2 rounded-md transition-colors duration-300">
                     Book Now
                   </button>
