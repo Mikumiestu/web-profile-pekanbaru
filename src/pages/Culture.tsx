@@ -172,7 +172,7 @@ const Culture: React.FC = () => {
                 />
               </div>
               <div className="p-6">
-                <h3 className="text-xl font-bold text-gray-800 mb-2">Riau Arts Festival</h3>
+                <h3 className="text-xl font-bold text-gray-800 mb-2">Riau Arts</h3>
                 <p className="text-gray-600 mb-4">
                   An annual celebration of Riau's cultural heritage, featuring performances, exhibitions, and competitions showcasing traditional arts, crafts, music, and dance from across the province.
                 </p>
