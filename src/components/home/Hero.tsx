@@ -26,7 +26,7 @@ const Hero: React.FC = () => {
       <div 
         className="absolute inset-0 bg-cover bg-center bg-no-repeat" 
         style={{
-          backgroundImage: "url('https://images.pexels.com/photos/1687252/pexels-photo-1687252.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')",
+          backgroundImage: "url('https://www.sabangmeraukenews.com/foto_berita/2023/11/2023-11-28-catat-inilah-destinasi-kawasan-kuliner-di-kota-pekanbaru-dari-yang-legendaris-sampai-kekinian.0')",
           transform: `translateY(${offset}px)`,
           filter: 'brightness(0.7)',
         }}

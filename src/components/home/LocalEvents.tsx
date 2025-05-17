@@ -14,27 +14,27 @@ const LocalEvents: React.FC = () => {
   const [events] = useState<Event[]>([
     {
       id: 1,
-      title: " Megang Festival",
+      title: "Title",
       date: "April 2025",
       location: "Various locations across Pekanbaru",
-      image: "https://images.pexels.com/photos/2300972/pexels-photo-2300972.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      description: "A traditional festival celebrated before Ramadan, featuring traditional foods and cultural performances."
+      image: "https://www.bizzabo.com/wp-content/uploads/2021/09/event-roadshow-ideas-yext-on-tour-min.png",
+      description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo pariatur veritatis odit fugiat voluptates suscipit est ducimus laborum consequuntur labore sapiente dolor harum, impedit, fuga molestias. Soluta omnis quos ab?"
     },
     {
       id: 2,
-      title: "Riau Expo",
+      title: "Title",
       date: "August 2025",
       location: "Purna MTQ Exhibition Center",
-      image: "https://images.pexels.com/photos/2342884/pexels-photo-2342884.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      description: "Annual exhibition showcasing local products, businesses, and cultural attractions from across Riau Province."
+      image: "https://www.bizzabo.com/wp-content/uploads/2021/09/event-roadshow-ideas-yext-on-tour-min.png",
+      description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo pariatur veritatis odit fugiat voluptates suscipit est ducimus laborum consequuntur labore sapiente dolor harum, impedit, fuga molestias. Soluta omnis quos ab?"
     },
     {
       id: 3,
-      title: "Pekanbaru Cultural Parade",
+      title: "Title",
       date: "October 2025",
       location: "Sudirman Street",
-      image: "https://images.pexels.com/photos/3719028/pexels-photo-3719028.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      description: "Colorful parade featuring traditional costumes, music, and dance from various cultural groups in Pekanbaru."
+      image: "https://www.bizzabo.com/wp-content/uploads/2021/09/event-roadshow-ideas-yext-on-tour-min.png",
+      description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo pariatur veritatis odit fugiat voluptates suscipit est ducimus laborum consequuntur labore sapiente dolor harum, impedit, fuga molestias. Soluta omnis quos ab?"
     }
   ]);
 

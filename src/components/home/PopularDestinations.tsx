@@ -36,25 +36,25 @@ const DestinationCard: React.FC<DestinationProps> = ({ image, title, description
 const PopularDestinations: React.FC = () => {
   const destinations = [
     {
-      image: "https://images.pexels.com/photos/2044434/pexels-photo-2044434.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      image: "https://smarttourism.pekanbaru.go.id/storage/destinations/63422-masjid-raya-an-nur.jpg",
       title: "An-Nur Grand Mosque",
       description: "One of the largest and most magnificent mosques in Indonesia, featuring stunning Islamic architecture.",
       link: "/tourism"
     },
     {
-      image: "https://images.pexels.com/photos/3601453/pexels-photo-3601453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      image: "https://picture.triptrus.com/image/2014/06/sungai-siak.jpeg",
       title: "Siak River",
       description: "Experience the historical waterway that has been a lifeline for trade and transportation in the region.",
       link: "/tourism"
     },
     {
-      image: "https://images.pexels.com/photos/2873993/pexels-photo-2873993.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      image: "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Soeman_HS_Library%2C_Pekanbaru%2C_Indonesia.jpg/1200px-Soeman_HS_Library%2C_Pekanbaru%2C_Indonesia.jpg",
       title: "Soeman HS Library",
       description: "A modern architectural landmark housing a vast collection of literature about Riau's heritage.",
       link: "/tourism"
     },
     {
-      image: "https://images.pexels.com/photos/2119028/pexels-photo-2119028.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      image: "https://dbijapkm3o6fj.cloudfront.net/resources/6976,1004,1,1,4,0,600,450/-4601-/20160613161415/taman-budaya-riau.jpeg",
       title: "Riau Cultural Park",
       description: "Immerse yourself in the rich cultural heritage of Riau through traditional performances and exhibitions.",
       link: "/culture"
