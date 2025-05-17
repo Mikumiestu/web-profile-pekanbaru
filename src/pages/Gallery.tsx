@@ -28,67 +28,67 @@ const Gallery: React.FC = () => {
       id: 2,
       title: "Siak River Sunset",
       category: "nature",
-      url: "https://images.pexels.com/photos/1761279/pexels-photo-1761279.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      url: "https://static.promediateknologi.id/crop/0x0:0x0/x/photo/p2/95/2025/01/28/tempat-wisata-pekanbaru-terdekat-1724366170.jpg"
     },
     {
       id: 3,
       title: "Traditional Malay Dance",
       category: "culture",
-      url: "https://images.pexels.com/photos/2165583/pexels-photo-2165583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      url: "https://melayupedia.com/foto_berita/2021/07/2021-07-23-tari-zapin-melayu-dan-92-jenis-tariannya-di-4-negara.jpg"
     },
     {
       id: 4,
       title: "Local Market",
       category: "daily-life",
-      url: "https://images.pexels.com/photos/2923523/pexels-photo-2923523.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      url: "https://www.shutterstock.com/image-photo/riau-street-food-pekanbaru-november-260nw-1350896117.jpg"
     },
     {
       id: 5,
       title: "Soeman HS Library",
       category: "landmarks",
-      url: "https://images.pexels.com/photos/2873993/pexels-photo-2873993.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      url: "https://mediacenter.riau.go.id/foto_berita/medium/perpustakaan-soeman-hs-provinsi-ria.jpg"
     },
     {
       id: 6,
       title: "Traditional Food - Bolu Kemojo",
       category: "food",
-      url: "https://images.pexels.com/photos/5835353/pexels-photo-5835353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      url: "https://cdn.rri.co.id/berita/Pekanbaru/o/1721964726598-Bolu_Kemojo/jvbqnoin2f7tia7.jpeg"
     },
     {
       id: 7,
       title: "City Skyline",
       category: "cityscape",
-      url: "https://images.pexels.com/photos/1722183/pexels-photo-1722183.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      url: "https://thumbs.dreamstime.com/b/aerial-view-pekanbaru-city-skyline-sunset-capital-riau-province-indonesia-293463667.jpg"
     },
     {
       id: 8,
       title: "Traditional Crafts",
       category: "culture",
-      url: "https://images.pexels.com/photos/3184188/pexels-photo-3184188.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      url: "https://selarasriau.com/assets/berita/original/97717701278-screenshot_2025-05-10-08-49-12-53_1c337646f29875672b5a61192b9010f9.jpg"
     },
     {
       id: 9,
       title: "Street View",
       category: "daily-life",
-      url: "https://images.pexels.com/photos/1334605/pexels-photo-1334605.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      url: "https://thumbs.dreamstime.com/b/beautiful-night-view-pekanbaru-city-riau-indonesia-102799786.jpg"
     },
     {
       id: 10,
       title: "Local Festival",
       category: "culture",
-      url: "https://images.pexels.com/photos/2608517/pexels-photo-2608517.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      url: "https://www.riauonline.co.id/foto/bank/images/Festival-Lampu-Colok2.jpg"
     },
     {
       id: 11,
       title: "Palm Oil Plantation",
       category: "nature",
-      url: "https://images.pexels.com/photos/175784/pexels-photo-175784.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      url: "https://en.infosawit.com/images/news/October-2024/26/palm-oil-plantation-potential-in-pekanbaru--the-optimism-to-realize-national-scale-self-sufficiency.jpg"
     },
     {
       id: 12,
       title: "Traditional Malay House",
       category: "architecture",
-      url: "https://images.pexels.com/photos/2788792/pexels-photo-2788792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Xb-7RcqzumWD1LvA51lltDyEoB6S569Qdg&s"
     }
   ]);
 
